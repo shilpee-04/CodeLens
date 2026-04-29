@@ -26,8 +26,8 @@ CodeTrail is not just another coding tracker. It's an **AI-powered competitive p
 
 ## 🚀 Live Demo
 
-**Frontend**: [CodeTrail Dashboard](https://main.d2jc37kgdt0gqz.amplifyapp.com/)  
-**Backend API**: [CodeTrail API](https://codetrail-backend.railway.app)
+**Frontend**: [CodeTrail Dashboard](https://code-lens-git-main-shilpee-04s-projects.vercel.app/)
+**Backend API**: [CodeTrail API](codelens-production-3cb3.up.railway.app)
 
 > **Note**: Create an account and connect your coding platforms to see the full power of AI-driven analytics!
 
