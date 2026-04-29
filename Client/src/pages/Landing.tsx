@@ -564,7 +564,7 @@ const Landing = () => {
         <div className="container mx-auto px-4">
           <div className="text-center">
             <p className="text-muted-foreground text-sm">
-              Made with ❤️ by <span className="text-primary font-semibold">Tejaswa</span>
+              Made with ❤️ by <span className="text-primary font-semibold">Shilpee</span>
             </p>
           </div>
         </div>

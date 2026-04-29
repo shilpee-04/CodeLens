@@ -701,10 +701,10 @@ static async setPlatformProfile(platform: string, username: string, data: any) {
         <div className="text-center py-8 border-t border-border animate-on-scroll">
           <p className="text-muted-foreground mb-6">
             Built with passion for the competitive programming community by{" "}
-            <span className="text-white font-bold">Tejaswa</span>
+            <span className="text-white font-bold">Shilpee</span>
           </p>
           <Button asChild className="bg-gradient-to-r from-[#E64373] to-[#644EC9] hover:from-[#E64373]/90 hover:to-[#644EC9]/90 text-white font-semibold">
-            <a href="https://github.com/Tejaswa2611/CodeTrail" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/shilpee-04/CodeLens" target="_blank" rel="noopener noreferrer">
               <Github className="h-4 w-4 mr-2" />
               Explore the Code
               <ExternalLink className="h-4 w-4 ml-2" />
